@@ -1,4 +1,4 @@
-# android_adb_tools v1.0.31
+# Android adb tools v1.0.31
 adb tools is a toolkit included in the Android SDK package, adb which means [Android Debug Bridge](https://developer.android.com/studio/command-line/adb.html) that lets you communicate with a device.
 
 **Note:** Some commands may depending on the version of Android system or ROM.
